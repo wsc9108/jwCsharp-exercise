@@ -11,7 +11,10 @@ namespace ConsoleApp1
             DateTime date1 = DateTime.Now;
             Console.WriteLine("{0} ", date1);
 
+            Console.WriteLine("Hello World");
             Console.ReadKey();
+
+
         }
     }
 }
